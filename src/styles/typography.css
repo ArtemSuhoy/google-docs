@@ -1,0 +1,20 @@
+:root {
+  /* Font size */
+  --title-h1-fs: 18px; /* 60px */
+
+  /* Line height */
+
+  --title-h1-lh: 22px;
+
+  /* Text */
+
+  /* Font size */
+  --text-body1-fs: 18px;
+  --text-body2-fs: 14px;
+  --text-caption1-fs: 12px;
+
+  /* Line height */
+  --text-body1-lh: 28px;
+  --text-body2-lh: 22px;
+  --text-caption1-lh: 18px;
+}
